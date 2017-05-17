@@ -1,3 +1,5 @@
 # guitar2
 guitar2
-![image](https://github.com/AdaL95/Guitar2.0/blob/master/img/index.PNG)
+![image](https://github.com/fuchaoqiang/guitar2/blob/master/search.PNG)
+
+![image](https://github.com/fuchaoqiang/guitar2/blob/master/result.PNG)
